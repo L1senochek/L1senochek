@@ -1,5 +1,4 @@
-# 𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
-# <div id="header" align="center">
+#<div id="header" align="center">
   <h1>𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖</h1>
   <img src="https://i.pinimg.com/originals/c8/01/cc/c801cc0b276490680cea5c1766633d3f.png" width=""/>
 </div>
