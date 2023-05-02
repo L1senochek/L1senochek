@@ -1,8 +1,8 @@
 # 𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
-# <div id="header" align="center">
+# 
   <h1>𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 ## 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 > 🌍 I'm currently based in Moscow, Russia
 ## 𝙎𝙠𝙞𝙡𝙡𝙨:
