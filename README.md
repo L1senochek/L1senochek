@@ -8,8 +8,8 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1senochek&layout=compact)](https://github.com/l1senochek/github-readme-stats)
 ## 🔥 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
 ...
- https://l1senochek.github.io/virtual-keyboard/
-### https://l1senochek.github.io/shelter/shelter/pages/main/index.html
+- [Virtual keyboard] (https://l1senochek.github.io/virtual-keyboard/)
+[Shelter](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
 ### https://l1senochek.github.io/CSSBayan/CSSBayan/
 ### https://l1senochek.github.io/plants/
 ### https://github.com/L1senochek/SushiCat
