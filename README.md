@@ -1,7 +1,5 @@
-layout: https://github.com/
-title: "Frontend Developer"
-permalink: /L1senochek
-### 𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
+# 𝙃𝙞 👋, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
+#
 ## 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 > 🌍 I'm currently based in Moscow, Russia
 ## 𝙎𝙠𝙞𝙡𝙡𝙨:
