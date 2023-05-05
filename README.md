@@ -9,7 +9,7 @@
 ## 🔥 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
 - [Virtual keyboard](https://l1senochek.github.io/virtual-keyboard/)
 - [Shelter](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
--[Momentum](https://l1senochek.github.io/momentum/)
+- [Momentum](https://l1senochek.github.io/momentum/)
 - [CSS Bayan](https://l1senochek.github.io/CSSBayan/CSSBayan/)
 - [Plants](https://l1senochek.github.io/plants/)
 - [SushiCat](https://github.com/L1senochek/SushiCat)
