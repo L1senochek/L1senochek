@@ -23,6 +23,8 @@
 - github: [Plants](https://github.com/L1senochek/plants) / [deploy](https://l1senochek.github.io/plants/)
 - github: [SushiCat](https://github.com/L1senochek/SushiCat)
 
+<details><summary>test</summary><ul><li>1</li><li>2</li></ul></details>
+
 <!--
 **L1senochek/L1senochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
