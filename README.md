@@ -5,7 +5,7 @@
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/lisenochek96)
-[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.gg/lisenochek)
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=e8f8ff)](https://discord.gg/lisenochek)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/tatyana-antipova-9153b2282/)
 
 ### 𝙎𝙠𝙞𝙡𝙡𝙨: 
