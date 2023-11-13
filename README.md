@@ -26,8 +26,8 @@
 <details>
   <summary>
     <a href="#" title="React">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/> <strong> React</strong>
-    </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/></a> <strong> React</strong>
+    
   </summary>
   <ul>
     <li>
