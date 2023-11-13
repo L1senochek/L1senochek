@@ -1,4 +1,5 @@
 ## 𝙃𝙞, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
+<strong>𝙃𝙞, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖</strong>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F718F2&pause=4000&lines=𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧)](https://git.io/typing-svg)
 > 🌍 I'm currently based in Moscow, Russia
