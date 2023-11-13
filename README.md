@@ -25,7 +25,7 @@
 
 <details>
   <summary>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20" /> React
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20" /> #####React
   </summary>
   <ul>
     <li>Anime App: [repository](https://github.com/L1senochek/react-app) / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)</li>
