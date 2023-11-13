@@ -126,9 +126,10 @@
 </details>
 <details>
   <summary>
-<!--     <a href="" title="php" style="text-decoration: none !important;"> -->
+    <a href="" title="php" style="text-decoration: none !important;">
+      <span></span>
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="15" height="15"/>
-<!--     </a> -->
+    </a>
     <strong> php</strong> 
   </summary>
   <ul>
