@@ -14,6 +14,7 @@
 <h3><a href="#">- Build Tools:</a></h3>
 <a href="https://webpack.js.org/" target="_blank" title="webpack"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40" /></a> <a href="https://vitejs.dev/" target="_blank" title="Vite"> <img src="https://vitejs.dev/logo-with-shadow.png" alt="vite" width="40" height="40" /></a> 
 <h3><a href="#">- Testing:</a></h3>
+
 [![Vitest](https://img.shields.io/badge/-Vitest-090909?style=for-the-badge&logo=vitest&logoColor=e2ed05)](https://vitest.dev/)
 [![Jest](https://img.shields.io/badge/-Vitest-090909?style=for-the-badge&logo=vitest&logoColor=e2ed05)](https://vitest.dev/)
 
