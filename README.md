@@ -25,7 +25,7 @@
 
 <details>
   <summary>
-    <a href="#" title="React" style="text-decoration: none">
+    <a href="#" title="React" style="text-decoration: none;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/>
     </a>
     <strong> React</strong> 
@@ -48,7 +48,7 @@
 
 <details>
   <summary>
-    <a href="#" title="Vanilla JS and TS" style="text-decoration: none">
+    <a href="#" title="Vanilla JS and TS" style="text-decoration: none;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" />
     </a>
@@ -95,7 +95,7 @@
 </details>
 <details>
   <summary>
-    <a href="#" title="HTML/CSS" style="text-decoration: none">
+    <a href="#" title="HTML/CSS" style="text-decoration: none;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="15" height="15" />
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="15" height="15" />
     </a>
@@ -126,7 +126,7 @@
 </details>
 <details>
   <summary>
-    <a href="#" title="php" style="text-decoration: none">
+    <a href="#" title="php" style="text-decoration: none;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="15" height="15"/>
     </a>
     <strong> php</strong> 
