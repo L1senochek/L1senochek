@@ -25,7 +25,7 @@
 
 <details>
   <summary>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20" /> <strong> React</strong>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15" /> <strong> React</strong>
   </summary>
   <ul>
     <li>
