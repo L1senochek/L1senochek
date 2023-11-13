@@ -5,7 +5,8 @@
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/lisenochek96)
-<a href="https://t.me/lisenochek96" target="_blank" title="Telegram" rel="nofollow"><img src="https://cdn.svgporn.com/logos/telegram.svg" alt="react" width="30" height="30" style="max-width: 100%;" /></a> <a href="https://discord.gg/lisenochek" title="Discord" rel="nofollow"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lisenochek" width="30" height="30" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/tatyana-antipova-9153b2282/" title="Linkedin"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30" height="30" style="max-width: 100%;"></a>
+[![Discord](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=27A0D9)](https://discord.gg/lisenochek)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=27A0D9)](https://www.linkedin.com/in/tatyana-antipova-9153b2282/)
 
 ### 𝙎𝙠𝙞𝙡𝙡𝙨: 
 <h3><a href="#">- Front-End:</a></h3>
