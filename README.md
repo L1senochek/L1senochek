@@ -41,11 +41,7 @@
 
 <details>
   <summary>
-    <a href="#" title="Vanilla JS and TS" style="text-decoration: none !important;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" />
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" />
-    </a>
-    <strong> Vanilla JS and TS</strong> 
+    <a href="#" title="Vanilla JS and TS" style="text-decoration: none !important;"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" /></a><strong> Vanilla JS and TS</strong> 
   </summary>
   <ul>
     <li>
