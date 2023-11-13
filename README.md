@@ -17,7 +17,6 @@
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1senochek&layout=compact)](https://github.com/l1senochek/github-readme-stats)
 
 ### 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
-
 <details>
   <summary>
     <a href="#" title="React" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/></a><strong> React</strong> 
