@@ -14,7 +14,7 @@
 - [Shelter](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
 - [Momentum](https://l1senochek.github.io/momentum/)
 - [CSS Bayan](https://l1senochek.github.io/CSSBayan/CSSBayan/)
-- [Plants](https://github.com/L1senochek/plants) deploy: https://l1senochek.github.io/plants/
+- [Plants](https://github.com/L1senochek/plants) [deploy:](https://l1senochek.github.io/plants/)
 - [SushiCat](https://github.com/L1senochek/SushiCat)
 
 <!--
