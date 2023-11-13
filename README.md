@@ -29,9 +29,17 @@
   </summary>
   <ul>
     <li>
-      Anime App: [repository](https://github.com/L1senochek/react-app) / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)
+      <span>Anime App: </span>
+      <a href="https://github.com/L1senochek/react-app">repository</a>
+      <span> / </span>
+      <a href="[https://github.com/L1senochek/react-app](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)">deploy</a>
     </li>
-    <li>eCommerceApplication: [repository](https://github.com/L1senochek/eCommerceApplication/tree/development)</li>
+    <li>
+      <span>eCommerceApplication: </span>
+      <a href="https://github.com/L1senochek/eCommerceApplication/tree/development">
+        repository
+      </a>
+    </li>
   </ul>
 </details>
 
