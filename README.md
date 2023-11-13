@@ -9,13 +9,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" title="HTML"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="50" height="50" /></a> <a href="https://sass-lang.com/" target="_blank" title="sass"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" /></a>  <a href="https://www.figma.com/" target="_blank" title="figma"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" /></a> <a href="https://git-scm.com/" target="_blank" title="git"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="50" height="50" /></a> <a href="https://webpack.js.org/" target="_blank" title="webpack"> <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="100" height="50" /></a> <a href="https://react.dev/" target="_blank" title="React"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" /></a>
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1senochek&layout=compact)](https://github.com/l1senochek/github-readme-stats)
 ## 🔥 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
-- [Minesweeper](https://l1senochek.github.io/minesweeper/minesweeper/)
-- [Virtual keyboard](https://l1senochek.github.io/virtual-keyboard/)
-- [Shelter](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
-- [Momentum](https://l1senochek.github.io/momentum/)
-- [CSS Bayan](https://l1senochek.github.io/CSSBayan/CSSBayan/)
+- github: [CSS Diner](https://github.com/L1senochek/CSS-Diner/tree/css-diner) / [deploy](https://l1senochek.github.io/CSS-Diner/)
+- github: [Async Race](https://github.com/L1senochek/async-race)
+- github: [Minesweeper](https://github.com/L1senochek/minesweeper) / [deploy](https://l1senochek.github.io/minesweeper/minesweeper/)
+- github: [Virtual keyboard](https://github.com/L1senochek/virtual-keyboard/tree/development) / [deploy](https://l1senochek.github.io/virtual-keyboard/)
+- github: [Shelter](https://github.com/L1senochek/shelter/tree/shelter) / [deploy](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
+- github: [Momentum](https://github.com/L1senochek/momentum) / [deploy](https://l1senochek.github.io/momentum/)
+- github: [CSS Bayan](https://github.com/L1senochek/CSSBayan) / [deploy](https://l1senochek.github.io/CSSBayan/CSSBayan/)
 - github: [Plants](https://github.com/L1senochek/plants) / [deploy](https://l1senochek.github.io/plants/)
-- [SushiCat](https://github.com/L1senochek/SushiCat)
+- github: [SushiCat](https://github.com/L1senochek/SushiCat)
 
 <!--
 **L1senochek/L1senochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
