@@ -6,7 +6,7 @@
 <a href="https://t.me/lisenochek96" target="_blank" title="Telegram" rel="nofollow"><img src="https://cdn.svgporn.com/logos/telegram.svg" alt="react" width="30" height="30" style="max-width: 100%;" /></a> <a href="https://discord.gg/lisenochek" title="Discord" rel="nofollow"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lisenochek" width="30" height="30" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/tatyana-antipova-9153b2282/" title="Linkedin"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30" height="30" style="max-width: 100%;"></a>
 ### 𝙎𝙠𝙞𝙡𝙡𝙨:
 #### Front-End:
-<a href="https://react.dev/" target="_blank" title="React"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a><a href="https://redux.js.org/" target="_blank" title="Redux">
+<a href="https://react.dev/" target="_blank" title="React"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a> <a href="https://redux.js.org/" target="_blank" title="Redux">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
 </a><a href="https://reactrouter.com/en/main" target="_blank" title="React Router">
   <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="react" width="40" height="40" />
