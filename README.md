@@ -118,8 +118,8 @@
 </details>
 <details>
   <summary>
-    <a href="#" title="php" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="15" height="15"/></a>
-    <strong>php</strong> 
+    <a href="#" title="php" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="15" height="15"/><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="php" width="15" height="15"/></a>
+    <strong>php and SQL</strong> 
   </summary>
   <ul>
     <li>
