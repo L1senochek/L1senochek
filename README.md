@@ -26,15 +26,16 @@
 <details>
   <summary>
     <a href="#" title="React">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/></a> <strong> React</strong>
-    
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="15" height="15"/>
+    </a>
+    <strong> React</strong> 
   </summary>
   <ul>
     <li>
       <span>Anime App: </span>
       <a href="https://github.com/L1senochek/react-app">repository</a>
       <span> / </span>
-      <a href="https://lisenochek-tests-context-api.netlify.app/page/1/limit/25">deploy</a>
+      <a href="https://lisenochek-tests-context-api.netlify.app/">deploy</a>
     </li>
     <li>
       <span>eCommerceApplication: </span>
@@ -45,6 +46,98 @@
   </ul>
 </details>
 
+<details>
+  <summary>
+    <a href="#" title="Vanilla JS and TS">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" />
+    </a>
+    <strong> Vanilla JS and TS</strong> 
+  </summary>
+  <ul>
+    <li>
+      <span>CSS Diner: </span>
+      <a href="https://github.com/L1senochek/CSS-Diner/tree/css-diner">repository</a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/CSS-Diner/">deploy</a>
+    </li>
+    <li>
+      <span>Async Race: </span>
+      <a href="https://github.com/L1senochek/async-race">
+        repository
+      </a>
+    </li>
+    <li>
+      <span>Minesweeper: </span>
+      <a href="https://github.com/L1senochek/minesweeper">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/minesweeper/minesweeper/">deploy</a>
+    </li>
+    <li>
+      <span>Virtual keyboard: </span>
+      <a href="https://github.com/L1senochek/virtual-keyboard/tree/development">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/virtual-keyboard/">deploy</a>
+    </li>
+    <li>
+      <span>Momentum: </span>
+      <a href="https://github.com/L1senochek/momentum">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/momentum/">deploy</a>
+    </li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <a href="#" title="HTML/CSS">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" width="15" height="15" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3" width="15" height="15" />
+    </a>
+    <strong> HTML/CSS</strong> 
+  </summary>
+  <ul>
+    <li>
+      <span>Shelter: </span>
+      <a href="https://github.com/L1senochek/shelter/tree/shelter">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/shelter/shelter/pages/main/index.html">
+        deploy
+      </a>
+    </li>
+    <li>
+      <span>Plants: </span>
+      <a href="https://github.com/L1senochek/plants">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/plants/">
+        deploy
+      </a>
+    </li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <a href="#" title="React">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="react" width="15" height="15"/>
+    </a>
+    <strong> PHP</strong> 
+  </summary>
+  <ul>
+    <li>
+      <span>SushiCat: </span>
+      <a href="https://github.com/L1senochek/SushiCat">repository</a>
+    </li>
+  </ul>
+</details>
 <!--
 **L1senochek/L1senochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
