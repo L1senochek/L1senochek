@@ -1,6 +1,6 @@
 ## 𝙃𝙞, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8ed6fb&pause=4000&lines=𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cceeff&pause=4000&lines=𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧)](https://git.io/typing-svg)
 > 🌍 I'm currently based in Moscow, Russia
 
 ### Connect with me:
