@@ -23,7 +23,15 @@
 - github: [Plants](https://github.com/L1senochek/plants) / [deploy](https://l1senochek.github.io/plants/)
 - github: [SushiCat](https://github.com/L1senochek/SushiCat)
 
-<details><summary>test</summary><ul><li>1</li><li>2</li></ul></details>
+<details>
+  <summary>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20" /> React
+  </summary>
+  <ul>
+    <li>Anime App: [repository](https://github.com/L1senochek/react-app) / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)</li>
+    <li>eCommerceApplication: [repository](https://github.com/L1senochek/eCommerceApplication/tree/development)</li>
+  </ul>
+</details>
 
 <!--
 **L1senochek/L1senochek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
