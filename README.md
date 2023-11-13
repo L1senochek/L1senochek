@@ -1,6 +1,6 @@
 ## 𝙃𝙞, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%F718F2FF&lines=𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙+𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧)](https://git.io/typing-svg)
 > 🌍 I'm currently based in Moscow, Russia
 ### Connect with me:
 <a href="https://t.me/lisenochek96" target="_blank" title="Telegram" rel="nofollow"><img src="https://cdn.svgporn.com/logos/telegram.svg" alt="react" width="30" height="30" style="max-width: 100%;" /></a> <a href="https://discord.gg/lisenochek" title="Discord" rel="nofollow"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lisenochek" width="30" height="30" style="max-width: 100%;"></a> <a href="https://www.linkedin.com/in/tatyana-antipova-9153b2282/" title="Linkedin"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="30" height="30" style="max-width: 100%;"></a>
