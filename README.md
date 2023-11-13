@@ -28,7 +28,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="20" height="20" /> <strong> React</strong>
   </summary>
   <ul>
-    <li> - Anime App: [repository](https://github.com/L1senochek/react-app) / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25) (repository)[https://github.com/L1senochek/react-app] / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)</li>
+    <li>
+      Anime App: [repository](https://github.com/L1senochek/react-app) / [deploy](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)
+    </li>
     <li>eCommerceApplication: [repository](https://github.com/L1senochek/eCommerceApplication/tree/development)</li>
   </ul>
 </details>
