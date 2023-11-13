@@ -1,5 +1,5 @@
 # 𝙃𝙞, 𝙄'𝙢 𝙏𝙖𝙩𝙮𝙖𝙣𝙖
- <img src="https://i.pinimg.com/originals/c8/01/cc/c801cc0b276490680cea5c1766633d3f.png" width="" height="500" />
+ <img src="https://i.pinimg.com/originals/c8/01/cc/c801cc0b276490680cea5c1766633d3f.png" width="" height="300" />
 
 ## 𝙁𝙧𝙤𝙣𝙩𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧
 > 🌍 I'm currently based in Moscow, Russia
