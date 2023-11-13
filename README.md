@@ -8,11 +8,9 @@
 #### Front-End:
 <a href="https://react.dev/" target="_blank" title="React">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-</a>
-<a href="https://redux.js.org/" target="_blank" title="Redux">
+</a><a href="https://redux.js.org/" target="_blank" title="Redux">
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-</a>
-<a href="https://reactrouter.com/en/main" target="_blank" title="React Router">
+</a><a href="https://reactrouter.com/en/main" target="_blank" title="React Router">
   <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="react" width="40" height="40" />
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
