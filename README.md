@@ -12,16 +12,8 @@
 #### Testing:
 <a href="https://vitest.dev/" target="_blank" title="Vitest"> <img src="https://camo.githubusercontent.com/a581c9522a87b59e770ce3ab426a47e76b43c3d54706bee38c2d10e9535ceadf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d7669746573742d77686974653f6c6f676f3d766974657374266c6f676f436f6c6f723d707572706c65267374796c653d666f722d7468652d6261646765" alt="vitest" width="70" height="30" /></a> <a href="https://jestjs.io/" target="_blank" title="Jest"> <img src="https://camo.githubusercontent.com/38eb294a1bdc730fae415015ecac4d6c009e39d2a9c8f8631f1d16bf3f918189/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a6573742d2532334332313332353f7374796c653d666f722d7468652d6261646765266c6f676f3d6a657374266c6f676f436f6c6f723d7768697465" alt="jest" width="70" height="30" /></a>
 # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l1senochek&layout=compact)](https://github.com/l1senochek/github-readme-stats)
+
 ### 🔥 𝙈𝙮 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨:
-- github: [CSS Diner](https://github.com/L1senochek/CSS-Diner/tree/css-diner) / [deploy](https://l1senochek.github.io/CSS-Diner/)
-- github: [Async Race](https://github.com/L1senochek/async-race)
-- github: [Minesweeper](https://github.com/L1senochek/minesweeper) / [deploy](https://l1senochek.github.io/minesweeper/minesweeper/)
-- github: [Virtual keyboard](https://github.com/L1senochek/virtual-keyboard/tree/development) / [deploy](https://l1senochek.github.io/virtual-keyboard/)
-- github: [Shelter](https://github.com/L1senochek/shelter/tree/shelter) / [deploy](https://l1senochek.github.io/shelter/shelter/pages/main/index.html)
-- github: [Momentum](https://github.com/L1senochek/momentum) / [deploy](https://l1senochek.github.io/momentum/)
-- github: [CSS Bayan](https://github.com/L1senochek/CSSBayan) / [deploy](https://l1senochek.github.io/CSSBayan/CSSBayan/)
-- github: [Plants](https://github.com/L1senochek/plants) / [deploy](https://l1senochek.github.io/plants/)
-- github: [SushiCat](https://github.com/L1senochek/SushiCat)
 
 <details>
   <summary>
@@ -128,8 +120,8 @@
   <summary>
     <a href="#" title="php" style="text-decoration: none !important;">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="php" width="15" height="15"/>
-    <strong>php</strong> 
     </a>
+    <strong>php</strong> 
   </summary>
   <ul>
     <li>
