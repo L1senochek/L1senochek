@@ -32,7 +32,7 @@
       <span>Anime App: </span>
       <a href="https://github.com/L1senochek/react-app">repository</a>
       <span> / </span>
-      <a href="[https://github.com/L1senochek/react-app](https://lisenochek-tests-context-api.netlify.app/page/1/limit/25)">deploy</a>
+      <a href="https://lisenochek-tests-context-api.netlify.app/page/1/limit/25">deploy</a>
     </li>
     <li>
       <span>eCommerceApplication: </span>
