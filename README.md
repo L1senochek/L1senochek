@@ -50,6 +50,19 @@
   </ul>
 </details>
 
+
+<details>
+  <summary>
+    <a href="#" title="Nodejs" style="text-decoration: none;"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="15" height="15"/></a><strong> Nodejs</strong> 
+  </summary>
+  <ul>
+    <li>
+      <span>File Manager: </span>
+      <a href="https://github.com/L1senochek/file-manager/tree/develop">repository</a>
+    </li>
+  </ul>
+</details>
+
 <details>
   <summary>
     <a href="#" title="Vanilla JS and TS"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15" /><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15" /></a><strong> Vanilla JS and TS</strong> 
