@@ -132,6 +132,16 @@
         deploy
       </a>
     </li>
+    <li>
+      <span>CSSBayan: </span>
+      <a href="https://github.com/L1senochek/CSSBayan">
+        repository
+      </a>
+      <span> / </span>
+      <a href="https://l1senochek.github.io/CSSBayan/CSSBayan/">
+        deploy
+      </a>
+    </li>
   </ul>
 </details>
 <details>
