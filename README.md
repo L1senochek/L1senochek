@@ -36,6 +36,12 @@
       <a href="https://wild-cats-graphiql-app.netlify.app/">deploy</a>
     </li>
     <li>
+      <span>React Hook Form: </span>
+      <a href="https://github.com/L1senochek/react-hook-form">repository</a>
+      <span> / </span>
+      <a href="https://lisenochek-react-hook-form.netlify.app/">deploy</a>
+    </li>
+    <li>
       <span>Anime App: </span>
       <a href="https://github.com/L1senochek/react-app">repository</a>
       <span> / </span>
