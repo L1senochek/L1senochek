@@ -30,6 +30,12 @@
   </summary>
   <ul>
     <li>
+      <span>UntitledUI App: </span>
+      <a href="https://github.com/L1senochek/untitled-ui">repository</a>
+      <span> / </span>
+      <a href="https://lisenochek-untitled-ui.netlify.app/">deploy</a>
+    </li>
+    <li>
       <span>GraphiQL App: </span>
       <a href="https://github.com/L1senochek/graphiql-app">repository</a>
       <span> / </span>
