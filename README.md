@@ -43,7 +43,7 @@
     </li>
     <li>
       <span>Github Api: </span>
-      <a href="https://github.com/L1senochek/github-api">repository</a>
+      <a href="https://github.com/L1senochek/githubApi">repository</a>
       <span> / </span>
       <a href="https://lis-app-state-management.netlify.app/">deploy</a>
     </li>
